@@ -1,2 +1,2 @@
 # Projects
-This repository contains relevant projects for my resume
+This repository contains relevant coding projects for my resume
